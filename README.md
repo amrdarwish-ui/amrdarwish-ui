@@ -7,7 +7,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer;Passionate%20about%20Laravel&font=Press%20Start%202P&center=true&width=500&height=60&color=0d6efd&vCenter=true&size=21">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20Developer;Passionate%20about%20Mobile%20Applications&font=Press%20Start%202P&center=true&width=500&height=60&color=0d6efd&vCenter=true&size=21">
   </a>
 </p>
 

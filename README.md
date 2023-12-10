@@ -2,12 +2,12 @@
 <!--<img width="250" align="right" src="![image](https://github.com/wafaMohamed/wafaMohamed/assets/101423134/e136b979-c1da-4776-9dad-21362606a984)">-->
 
 <!-- Your profile image and heading -->
-<h1 align="center">Welcome to Ahmed Mohamed Tarek's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1 align="center">Welcome to Amr Darwish's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20Developer;Passionate%20about%20Mobile%20Applications&font=Press%20Start%202P&center=true&width=500&height=60&color=0d6efd&vCenter=true&size=21">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20Developer;&font=Press%20Start%202P&center=true&width=500&height=60&color=0d6efd&vCenter=true&size=21">
   </a>
 </p>
 
